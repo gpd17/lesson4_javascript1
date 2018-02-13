@@ -13,8 +13,7 @@ Gabby Dunlap
 In this Lesson, I learned about javascript and how it is used on webpage. I also altered the index.html code as well as the expenseCalculator.js code to show monthly expenses. 
 
 ### View Project:
-(Replace this statement with your GitHub Page URL that was created when you 
- published the project.)
+https://gpd17.github.io/lesson4_javascript1/
 
 ### Lessons Learned in the Assignment:
 1. In this lesson, I learned all about JavaScript. For starters, I learned some of the basic syntax rules for Java Script. They are as followed: JavaScript is case-sensitive. It ignores extra whitespace within statements. In order for the code to work, the statement must end in a semi-colon. 
